@@ -5,7 +5,6 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![NLP](https://img.shields.io/badge/NLP-Text%20Classification-9C27B0?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![TNSDC](https://img.shields.io/badge/TNSDC-Naan%20Mudhalvan-FF6B35?style=for-the-badge&logo=python&logoColor=white)](https://naanmudhalvan.tn.gov.in)
 
 > **Can a machine detect fake news from just the article text?**
 > An NLP-based text classification project built as part of the TNSDC Naan Mudhalvan program.
@@ -28,7 +27,6 @@ The rapid spread of misinformation online is a critical challenge in the digital
 | 📦 Task | Binary Classification (Fake / Genuine) |
 | 🔤 Technique | TF-IDF Vectorization + ML Classifier |
 | 📊 Features | Word frequencies, linguistic patterns, sentiment |
-| 🏛️ Program | TNSDC Naan Mudhalvan — Generative AI Track |
 
 ---
 
@@ -117,9 +115,3 @@ nltk
 - [ ] Add a real-time news URL input for live prediction
 - [ ] Build a web app using Streamlit for interactive use
 - [ ] Expand dataset to include multilingual fake news detection
-
----
-
-## 🏛️ About This Project
-
-This project was developed as part of the **TNSDC Naan Mudhalvan program** under the Generative AI track — a Government of Tamil Nadu initiative to upskill students in emerging technologies.
